@@ -13,3 +13,9 @@ With so may fascinating color around us, its gets difficult to find exact name f
      
        
 ![test_2](https://github.com/gautamgupta1811/color_picker/blob/master/screenshots/test_2.png)       
+  
+  
+## Technology Stack
+  
+1. Python 3  
+2. Computer Vision
